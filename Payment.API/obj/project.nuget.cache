@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Puzs6omzLi5dmjjMLI4fQARrcl5pdgUjy+AeJpsNdcrOfcXK3TSdHO3UrYxPJKu4dHMaPKf1XEVWn2i6BFxO/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\My_Vivobook\\source\\repos\\Microservice.2PC\\Payment.API\\Payment.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\My_Vivobook\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\My_Vivobook\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\My_Vivobook\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\My_Vivobook\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\My_Vivobook\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\My_Vivobook\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
